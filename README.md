@@ -10,6 +10,15 @@
 
 ---
 
+## 🔗 Live Demo
+
+> 🔴 Live: [https://hire-iq-candidate-review-dashboard.vercel.app/](https://hire-iq-candidate-review-dashboard.vercel.app/)
+
+> 🟢 Source Code: [https://github.com/your-username/data-explorer-pro](https://github.com/nikhilandc/dynamic-conten)
+
+
+---
+
 ## Features
 
 | Feature | Details |
