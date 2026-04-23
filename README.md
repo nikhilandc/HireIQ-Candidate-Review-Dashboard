@@ -118,7 +118,7 @@ npm install
 npm run dev
 ```
 
-The app will be running at **http://localhost:5173**
+
 
 ### Build for Production
 
